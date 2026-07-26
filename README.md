@@ -194,7 +194,7 @@ Run the development server:
 ```bash
 uvicorn main:app --reload
 ```
-*The API will be available at `http://127.0.0.1:8000`.*
+
 
 ---
 
@@ -233,7 +233,6 @@ Start the Next.js development server:
 ```bash
 npm run dev
 ```
-*The application interface will be available at `http://localhost:3000`.*
 
 ---
 
