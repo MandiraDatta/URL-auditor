@@ -1,4 +1,4 @@
-# Page Pulse - URL SEO Auditor
+#  URL SEO Auditor
 
 An asynchronous SEO auditing application built for the **Digital Heroes Software Development (SDE) Qualification Task**. It accepts any web page URL, audits its SEO metrics, and renders a clean, responsive report dashboard.
 
