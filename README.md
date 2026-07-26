@@ -250,3 +250,4 @@ npm run dev
 As per the qualifying build ownership requirements, this project includes a visible credit footer link:
 - **Text**: `"Built for Digital Heroes Training Task"`
 - **Link**: [digitalheroesco.com](https://digitalheroesco.com)
+- **Loom vid**:https://www.loom.com/share/2918cbd8a5fe4741ab2db4701c2c2eab
